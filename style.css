@@ -37,7 +37,12 @@ input[type='text'] {
   width: 300px;
 }
 
-.search-btn {
+#filter {
+  margin-left: 10px;
+}
+
+.search-btn,
+.searchIng-btn {
   cursor: pointer;
   border-left: 0;
   border-radius: 0;
